@@ -2,7 +2,7 @@
   width: 400px;
   color: black;
   text-align: center;
-  zoom: 1.3;
+  zoom: 1.2;
 }
 
 .Hangman img {
@@ -15,7 +15,7 @@
   font-size: 2rem;
   font-weight: 100;
   margin-bottom: 0.1em;
-  margin-top: 1em;
+  margin-top: 0.5em;
 }
 
 .Hangman-word {
@@ -62,7 +62,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   background: rgb(81, 152, 81);
   box-shadow: 0 6px rgb(54, 144, 36);
 }
